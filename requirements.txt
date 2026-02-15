@@ -1,0 +1,7 @@
+crewai
+crewai-tools
+streamlit
+yfinance
+plotly
+langchain_openai
+langchain
