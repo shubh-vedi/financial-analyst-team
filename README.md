@@ -18,7 +18,7 @@ An enterprise-grade multi-agent AI application that performs comprehensive finan
 
 ```mermaid
 graph TD
-    User[User Input: "Tesla"] --> Manager[Manager Agent]
+    User["User Input: 'Tesla'"] ---> Manager[Manager Agent]
     Manager --> Researcher[Financial Researcher]
     Manager --> Competitor[Competitor Analyst]
     Manager --> Sentiment[Sentiment Analyst]
